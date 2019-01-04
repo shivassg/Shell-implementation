@@ -7,7 +7,7 @@ Description of the project:
 
 1) This project consists of a program to serve as a shell interface that accepts user commands and then executes each command in a separate process.
 
-2) Also the shell interface provides a program selection featyre that allows user to access the available executable programs from the current directory. The user will be able to access all executable programs.
+2) Also the shell interface provides a program selection feature that allows user to access the available executable programs from the current directory. The user will be able to access all executable programs.
 
 Implementation of the project:
 
